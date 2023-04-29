@@ -42,7 +42,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لاتغيرة",
-      "value": "TelethonAr",
+      "value": "https://github.com/amir1112/Arab",
       "required": false
     }
   },
