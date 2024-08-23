@@ -23,4 +23,3 @@ jobs:
         run: |
           flyctl auth login --access-token $FLY_API_TOKEN
           flyctl deploy
-غ
